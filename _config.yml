@@ -7,7 +7,7 @@
 
 # Site settings
 title: Billy Yang's Life
-email: yyam@ilaipi.me
+email: mz.yyam@ilaipi.top
 # description: > # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
   # line in _config.yml. It will appear in your document head meta (for
@@ -15,9 +15,13 @@ email: yyam@ilaipi.me
 description: >
   生活琐事，闲言碎语
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.ilaipi.me" # the base hostname & protocol for your site
+url: "https://blog.ilaipi.me" # the base hostname & protocol for your site
 twitter_username: ilaipi
 github_username:  ilaipi
+
+# avatar头像及Favicon
+avatar: https://github.com/ilaipi/ilaipi.github.io/blob/master/assets/avatar.jpeg
+favicon: https://github.com/ilaipi/ilaipi.github.io/blob/master/assets/favicon.ico
 
 # Build settings
 markdown: kramdown
